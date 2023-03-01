@@ -1,7 +1,7 @@
 # Specification
 
 - Start Date: 2023-03-01
-- RFC PR: #2
+- RFC PR: fluxed-lang/rfcs#2
 - Flux Issue:
 
 ## Contents
