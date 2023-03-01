@@ -7,6 +7,11 @@
 ## Contents
 
 1. [Summary](#summary)
+2. [Motivation](#motivation)
+3. [Web API](#web-api)
+	- [API Endpoints](#api-endpoints)
+	- [Pushing Packages](#pushing-packages)
+4. [Storage Format](#storage-format)
 
 ## Summary
 
