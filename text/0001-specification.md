@@ -91,7 +91,7 @@ atom =  "(", expr ")" | literal;
 div = atom, { "/", atom };
 mul = div, { "*", div };
 add = mul, { "+", mul };
-sub = sub, { "-" };
+sub = add, { "-", add };
 
 binary expr = sub;
 ```
